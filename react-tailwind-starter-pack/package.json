@@ -1,7 +1,7 @@
 {
   "name": "react-tailwind-starter-pack",
   "version": "0.1.0",
-  "description": "A simple way to jumpstart your React and Tailwind projects with a pre-configured starter pack. ",
+  "description": "A simple way to jumpstart your React and Tailwind projects with a pre-configured starter pack.",
   "author": "Radosav Perisic",
   "private": true,
   "dependencies": {
